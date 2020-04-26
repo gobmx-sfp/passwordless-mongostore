@@ -1,3 +1,8 @@
+# 0.1.6 (2020-04-26)
+
+Changes:
+- UPDATED bcryppt and mongo dependencies
+
 # 0.1.5 (2019-01-17)
 
 Changes:
